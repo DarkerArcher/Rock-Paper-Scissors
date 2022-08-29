@@ -77,6 +77,10 @@ header > h1 {
     margin: 0 15px;
 }
 
+.choice img {
+    border-radius: 25%;
+}
+
 .choice:hover {
     cursor: pointer; 
 }
